@@ -157,4 +157,5 @@ If you use this codebase or results in your research, please cite the following 
 
 Soni, A., Tripathi, S., Kashyap, G. S., Kulahara, M., Azeez, M. A., Siddiqui, Z. H., Joshi, N., & Gao, J. (2025). Can We Predict Your Next Move Without Breaking Your Privacy? arXiv preprint arXiv:2507.08843. https://arxiv.org/abs/2507.08843
 
+This work has been accepted for presentation at the 17th International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2025), to be held from August 25–28, 2025, in Ontario, Canada.
 
