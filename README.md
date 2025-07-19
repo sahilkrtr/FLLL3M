@@ -150,3 +150,11 @@ The test files (`test_step2.py`, `test_step3.py`, `test_step4.py`, `test_step5.p
 4. Add tests for new functionality
 5. Submit a pull request
 
+
+## Citation
+
+If you use this codebase or results in your research, please cite the following paper:
+
+Soni, A., Tripathi, S., Kashyap, G. S., Kulahara, M., Azeez, M. A., Siddiqui, Z. H., Joshi, N., & Gao, J. (2025). Can We Predict Your Next Move Without Breaking Your Privacy? arXiv preprint arXiv:2507.08843. https://arxiv.org/abs/2507.08843
+
+
